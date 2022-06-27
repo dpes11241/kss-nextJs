@@ -13,4 +13,12 @@ a {
 
 * {
   box-sizing: border-box;
+  padding-left: 20px;
+}
+.title{
+  border: 1px solid blue;
+}
+.nav{
+  list-style: none;
+  display: flex;
 }
